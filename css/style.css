@@ -8,6 +8,16 @@
   text-align: justify;
   font-family:serif;
   font-weight:100;
-  
-  
+}
+.img2{
+  width:10%;
+}
+.tabla1{
+  border: 1px solid;
+}
+tr,th,td{
+  border: 1px solid;
+}
+.img3{
+  width: 10%;
 }
